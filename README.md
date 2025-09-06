@@ -16,8 +16,8 @@ This is a shader project that runs on **Minecraft Java Edition for Android** usi
 # Known Issues
 - On PowerVR and Mali GPUs, there are weird lines on the real-time shadows.
 - On some devices that use a PowerVR GPU, performance can suddenly drop a lot.
+- On some PowerVR devices, there's a bug: 'texture2D' doesn't work. The workaround is to switch from '#version 120' to '#version 150', which replaces 'texture2D' with just 'texture'.
 - 
-- Please report if you find any other bugs!
 
 # More
 This repository is inspired by [ENDERMANYK](https://github.com/Open4Es/Open4Es-Shader-Android).
