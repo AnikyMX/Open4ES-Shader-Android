@@ -15,8 +15,8 @@ This is a shader project that runs on **Minecraft Java Edition for Android** usi
 
 # Known Issues
 - On PowerVR and Mali GPUs, there are weird lines on the real-time shadows.
+- On some devices that use a PowerVR GPU, performance can suddenly drop a lot.
 - 
-- On some devices that use PowerVR GPUs, sometimes they cannot read "texture2D" so you have to work around it by changing "#version 120" to "#version 150" so you can use "texture"
 - Please report if you find any other bugs!
 
 # More
