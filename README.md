@@ -7,7 +7,7 @@ Open4ES is a shader project for Minecraft: Java Edition on Android that uses the
 
 # Supported Launchers
 - Fold Craft Launcher
-- <img src="https://github.com/PojavLauncherTeam/PojavLauncher/blob/v3_openjdk/app_pojavlauncher/src/main/assets/pojavlauncher.png" align="left" width="40" height="60" alt="PojavLauncher logo">
+- <img src="https://github.com/PojavLauncherTeam/PojavLauncher/blob/v3_openjdk/app_pojavlauncher/src/main/assets/pojavlauncher.png" align="left-center" width="40" height="60" alt="PojavLauncher logo">
 Pojav Glow Worm
 - Zalith Launcher
 - Pojav Launcher
