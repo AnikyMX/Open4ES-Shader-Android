@@ -13,5 +13,11 @@ This is a shader project that runs on **Minecraft Java Edition for Android** usi
 - Mojo Launcher
 - Etc
 
+# Known Issues
+- There may be some strange lines in the shadows on some GPUs, especially Mali and PowerVR.
+- There may be a drastic performance drop on some PowerVR GPUs (Due to Driver limitations).
+- Sometimes there are some Mali GPUs that do not experience bugs because Mali is often paired with several chipsets such as MediaTek, Kirin, Exynos, etc.
+- Please report if you find any other bugs!
+
 # More
 This repository is inspired by [ENDERMANYK](https://github.com/Open4Es/Open4Es-Shader-Android).
