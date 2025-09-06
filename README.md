@@ -1,5 +1,5 @@
 # Open4ES Shader Android
-This is a shader project that runs on **Minecraft Java Edition for Android** using [GL4ES](https://github.com/PojavLauncherTeam/gl4es-114-extra).
+Open4ES is a shader project for Minecraft: Java Edition on Android that uses the [GL4ES](https://github.com/PojavLauncherTeam/gl4es-114-extra) renderer.
 
 - I provide shaders for **Adreno, Mali, and PowerVR GPUs**.
 - Just a little bit to spruce up your Minecraft look :)
