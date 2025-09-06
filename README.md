@@ -1,4 +1,4 @@
-<img src="https://github.com/PojavLauncherTeam/PojavLauncher/blob/v3_openjdk/app_pojavlauncher/src/main/assets/pojavlauncher.png" align="left" width="90" height="110" alt="PojavLauncher logo">
+<img src="https://github.com/PojavLauncherTeam/PojavLauncher/blob/v3_openjdk/app_pojavlauncher/src/main/assets/pojavlauncher.png" align="left" width="60" height="80" alt="PojavLauncher logo">
 
 # Open4ES Shader Android
 Open4ES is a shader project for Minecraft: Java Edition on Android that uses the [GL4ES](https://github.com/PojavLauncherTeam/gl4es-114-extra) renderer.
