@@ -3,7 +3,7 @@ Open4ES is a shader project for Minecraft: Java Edition on Android that uses the
 
 - Compatible with **Adreno, Mali, and PowerVR GPUs**.
 - Makes your Minecraft look a little better :)
-- To download the shader, you can check here [Release](https://github.com/ahmaf-gif/Open4ES-Shader-Android/releases).
+- To download the shader, please navigate to the [Releases](https://github.com/AnikyMX/Open4ES-Shader-Android/releases) section.
 
 # Supported Launchers
 - Fold Craft Launcher
