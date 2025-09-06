@@ -16,7 +16,7 @@ This is a shader project that runs on **Minecraft Java Edition for Android** usi
 # Known Issues
 - There may be some strange lines in the shadows on some GPUs, especially Mali and PowerVR.
 - There may be a drastic performance drop on some PowerVR GPUs (Due to Driver limitations).
-- Sometimes there are some Mali GPUs that do not experience bugs because Mali is often paired with several chipsets such as MediaTek, Kirin, Exynos, etc.
+- On some devices that use PowerVR GPUs, sometimes they cannot read "texture2D" so you have to work around it by changing "#version 120" to "#version 150" so you can use "texture"
 - Please report if you find any other bugs!
 
 # More
