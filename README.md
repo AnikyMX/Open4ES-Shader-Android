@@ -20,4 +20,4 @@ Open4ES is a shader project for Minecraft: Java Edition on Android that uses the
 - Please report if you find other bugs!
 
 # More
-This repository is inspired by [ENDERMANYK](https://github.com/Open4Es/Open4Es-Shader-Android).
+This project was inspired by the work within this [repository](https://github.com/Open4Es/Open4Es-Shader-Android).
