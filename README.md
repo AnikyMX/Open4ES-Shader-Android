@@ -6,11 +6,13 @@ Open4ES is a shader project for Minecraft: Java Edition on Android that uses the
 - The shader can be downloaded from the [Releases](https://github.com/AnikyMX/Open4ES-Shader-Android/releases) tab.
 
 # Supported Launchers
-- Fold Craft Launcher
-- [Pojav Glow Worm]<img src="https://github.com/PojavLauncherTeam/PojavLauncher/blob/v3_openjdk/app_pojavlauncher/src/main/assets/pojavlauncher.png" align="left-center" width="40" height="60" alt="PojavLauncher logo">
-- Zalith Launcher
-- Pojav Launcher
-- Mojo Launcher
+- [Fold Craft Launcher](https://github.com/FCL-Team/FoldCraftLauncher)
+- [Amethyst Launcher](https://github.com/AngelAuraMC/Amethyst-Android)
+- [Pojav Glow Worm](https://github.com/Vera-Firefly/Pojav-Glow-Worm)
+- [Zalith Launcher](https://github.com/ZalithLauncher/ZalithLauncher)
+- [Pojav Launcher](https://github.com/PojavLauncherTeam/PojavLauncher)
+- [HMCL Launcher](https://github.com/HMCL-dev/HMCL-PE)
+- [Mojo Launcher](https://github.com/MojoLauncher/MojoLauncher)
 - Etc
 
 # Known Issues
