@@ -18,7 +18,7 @@ Open4ES is a shader project for Minecraft: Java Edition on Android that uses the
 # Known Issues
 - On PowerVR and Mali GPUs, there are weird lines on the real-time shadows.
 - On some devices that use a PowerVR GPU, performance can suddenly drop a lot.
-- On some PowerVR devices, there's a bug: 'texture2D' doesn't work. The workaround is to switch from '#version 120' to '#version 150', which replaces 'texture2D' with just 'texture'.
+- Some devices with PowerVR GPUs have a problem when using the GL4ES Renderer: they can't read 'texture2D'. The fix is to change '#version 120' to '#version 150'. This stops using 'texture2D' and replaces it with 'texture'.
 - Please report if you find other bugs!
 
 # More
